@@ -22,6 +22,7 @@ struct ContentView: View {
     @State  private var imageURL: String? = nil
     var i = 0;
     var second = 0
+    var merge  = 0
     
     var body: some View {
         
